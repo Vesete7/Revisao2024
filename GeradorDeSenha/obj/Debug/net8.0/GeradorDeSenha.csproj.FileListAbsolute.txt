@@ -1,0 +1,15 @@
+C:\Users\Alunos\Documents\euvinni\Revisao2024\GeradorDeSenha\bin\Debug\net8.0\GeradorDeSenha.exe
+C:\Users\Alunos\Documents\euvinni\Revisao2024\GeradorDeSenha\bin\Debug\net8.0\GeradorDeSenha.deps.json
+C:\Users\Alunos\Documents\euvinni\Revisao2024\GeradorDeSenha\bin\Debug\net8.0\GeradorDeSenha.runtimeconfig.json
+C:\Users\Alunos\Documents\euvinni\Revisao2024\GeradorDeSenha\bin\Debug\net8.0\GeradorDeSenha.dll
+C:\Users\Alunos\Documents\euvinni\Revisao2024\GeradorDeSenha\bin\Debug\net8.0\GeradorDeSenha.pdb
+C:\Users\Alunos\Documents\euvinni\Revisao2024\GeradorDeSenha\obj\Debug\net8.0\GeradorDeSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\euvinni\Revisao2024\GeradorDeSenha\obj\Debug\net8.0\GeradorDeSenha.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\euvinni\Revisao2024\GeradorDeSenha\obj\Debug\net8.0\GeradorDeSenha.AssemblyInfo.cs
+C:\Users\Alunos\Documents\euvinni\Revisao2024\GeradorDeSenha\obj\Debug\net8.0\GeradorDeSenha.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\euvinni\Revisao2024\GeradorDeSenha\obj\Debug\net8.0\GeradorDeSenha.sourcelink.json
+C:\Users\Alunos\Documents\euvinni\Revisao2024\GeradorDeSenha\obj\Debug\net8.0\GeradorDeSenha.dll
+C:\Users\Alunos\Documents\euvinni\Revisao2024\GeradorDeSenha\obj\Debug\net8.0\refint\GeradorDeSenha.dll
+C:\Users\Alunos\Documents\euvinni\Revisao2024\GeradorDeSenha\obj\Debug\net8.0\GeradorDeSenha.pdb
+C:\Users\Alunos\Documents\euvinni\Revisao2024\GeradorDeSenha\obj\Debug\net8.0\GeradorDeSenha.genruntimeconfig.cache
+C:\Users\Alunos\Documents\euvinni\Revisao2024\GeradorDeSenha\obj\Debug\net8.0\ref\GeradorDeSenha.dll

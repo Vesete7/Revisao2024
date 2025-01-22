@@ -1,0 +1,174 @@
+/* Cores principais */
+:root {
+    --primary-color: #8b3e2f; /* Vermelho-terra mais suave */
+    --secondary-color: #f5e4d7; /* Bege claro (toque acolhedor) */
+    --accent-color: #8b3e2f; /* Igual ao primary-color para harmonia */
+    --text-color: #4a3f35; /* Marrom escuro para o texto */
+    --bg-light: #fffef9; /* Fundo suave */
+}
+
+/* Body */
+body {
+    font-family: 'Georgia', serif; /* Estilo clássico e elegante */
+    color: var(--text-color);
+    background-color: var(--bg-light);
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Navegação */
+.navbar {
+    background-color: var(--primary-color);
+}
+
+.navbar-brand {
+    font-family: 'Playfair Display', serif; /* Toque sofisticado */
+    font-size: 1.5rem;
+    color: var(--secondary-color);
+}
+
+.nav-link {
+    color: var(--secondary-color);
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+    color: var(--accent-color);
+}
+
+/* Cabeçalho com Carrossel */
+.hero-section {
+    background-color: var(--bg-light);
+    padding: 3rem 0;
+}
+
+.carousel-caption h5 {
+    font-family: 'Playfair Display', serif;
+    font-size: 2rem;
+    color: var(--primary-color);
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.carousel-caption p {
+    font-size: 1.2rem;
+    color: var(--secondary-color);
+}
+
+/* Seção Sobre */
+#sobre {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    text-align: center;
+    padding: 3rem 1rem;
+}
+
+#sobre h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+}
+
+/* Produtos */
+#produtos {
+    background-color: var(--bg-light);
+    padding: 3rem 1rem;
+}
+
+#produtos h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.5rem;
+    color: var(--primary-color);
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.card {
+    background-color: var(--secondary-color);
+    border: none;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+}
+
+.card-title {
+    font-family: 'Georgia', serif;
+    font-size: 1.5rem;
+    color: var(--primary-color);
+}
+
+.card-text {
+    color: var(--text-color);
+}
+
+/* Promoções */
+#promocoes {
+    background-color: var(--primary-color);
+    padding: 3rem 1rem;
+    text-align: center;
+}
+
+#promocoes h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.5rem;
+    color: var(--secondary-color);
+    margin-bottom: 2rem;
+}
+
+.card-body {
+    background-color: var(--secondary-color);
+    color: var(--text-color);
+    border-radius: 8px;
+}
+
+/* Rodapé */
+footer {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    text-align: center;
+    padding: 1.5rem 0;
+}
+
+footer p {
+    font-size: 0.9rem;
+    margin: 0;
+}
+
+/* Botões e Responsividade */
+button, .btn {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    border: none;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover, .btn:hover {
+    background-color: var(--accent-color);
+    color: var(--text-color);
+}
+
+@media (max-width: 768px) {
+    .hero-section {
+        padding: 2rem 1rem;
+    }
+
+    #produtos .card-title {
+        font-size: 1.25rem;
+    }
+
+    #sobre h2, #produtos h2, #promocoes h2 {
+        font-size: 2rem;
+    }
+
+}
+.semana
+{
+    color: #8b3e2f; /* Vermelho-terra mais suave */
+}
